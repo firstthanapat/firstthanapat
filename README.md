@@ -8,4 +8,9 @@
 - 🌱 I'm passionate about various technologies and languages, including HTML, CSS, JavaScript, Vue, Node.js, MySQL, Java, and more.
 - ✉️ You can also hire me for your project by reaching out to me via [thanapat.khumpiboon@gmail.com](mailto:thanapat.khumpiboon@gmail.com)
 
+## 😊 How to get in touch with me
+
+- [Instagram](https://www.instagram.com/first.tnpx/)
+- [Facebook](https://www.facebook.com/thanapat.khumpiboon/)
+
 
